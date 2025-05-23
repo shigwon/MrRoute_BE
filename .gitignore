@@ -29,6 +29,5 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
-.vscode/
-echo "src/main/resources/application.properties"
+### API key ###
+application.properties
